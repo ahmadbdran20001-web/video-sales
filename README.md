@@ -1,5 +1,5 @@
 # video_sales_data_analysis
-data analysis project using excel to explore video sales 
+data analysis project using powerbi to explore video sales 
 ## Data source :
 from kaggel 
 ## Tools used :
