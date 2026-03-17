@@ -35,6 +35,7 @@ the best-selling platform is ps2 , but not by a large margin compared to other p
 
 <img src="chart4.png" width="600">
 as shown , the highest video game sales occurred between 2005 and 2010
+
 ## key insights :
 1- are action , sports , shooter , role_playing and platform the only popular genres , or are lower sales of other genres due to weak marketing or other factors??
 
