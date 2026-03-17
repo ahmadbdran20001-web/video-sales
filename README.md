@@ -1,9 +1,9 @@
 # video_sales_data_analysis
-data analysis project using powerbi to explore video sales 
+data analysis project using power bi to explore video sales 
 ## Data source :
 from kaggel 
 ## Tools used :
-PowerBi
+Power Bi
 ## Project Question : 
 What factors influence video game sales across different region,platformand geners ??
 ## Explore data :
