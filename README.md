@@ -33,7 +33,7 @@ EU sales market account for the largest share , then NA and JP market
 <img src="chart3.png" width="500">
 the best-selling platform is ps2 , but not by a large margin compared to other platforms
 
-<img src="chart4.png" width="500">
+<img src="chart4.png" width="900">
 as shown , the highest video game sales occurred between 2005 and 2010
 
 ## key insights :
