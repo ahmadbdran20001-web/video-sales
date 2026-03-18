@@ -24,13 +24,13 @@ the data contains 16600 rows and 11 columns
 
 <img src="Dashboard.png" width="900">                                                         
 
-<img src="chart1.png" width="400">
+<img src="chart.png" width="400">
 the top five best-selling video game geners are action , sports , shooter , role_playing , and platform
 
-<img src="chart2.png" width="400">
+<img src="chart.png" width="400">
 EU sales market account for the largest share , then NA and JP market 
 
-<img src="chart3.png" width="400">
+<img src="chart.png" width="400">
 the best-selling platform is ps2 , but not by a large margin compared to other platforms
 
 <img src="chart4.png" width="400">
